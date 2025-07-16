@@ -1,1 +1,48 @@
 /* Your styles go here */
+header{
+    background-color: #145C9E;
+    padding: 2em 3em;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:aliceblue;
+    border-radius: 2em;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    background-color: #145C9E;
+    padding: 2em;
+    border-radius: 2em;
+    color: aliceblue;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table th{
+    background-color: #145C9E;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table td{
+    background-color: aliceblue;
+    color: #145C9E;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form{
+    background-color: #145C9E;
+    padding: 2em;
+    border-radius: 2em;
+    color:aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    color: #145C9E;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
